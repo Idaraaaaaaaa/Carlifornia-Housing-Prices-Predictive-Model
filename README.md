@@ -35,3 +35,7 @@ Distance to San Diego: Distance to the centre of San Diego [m]
 Distance to San Jose: Distance to the centre of San Jose [m]
 
 Distance to San Francisco: Distance to the centre of San Francisco [m]
+
+Data Preprocessing: 
+Target Variable- median_house_value
+Features=
