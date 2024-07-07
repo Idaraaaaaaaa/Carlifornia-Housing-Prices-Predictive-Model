@@ -38,4 +38,8 @@ Distance to San Francisco: Distance to the centre of San Francisco [m]
 
 Data Preprocessing: 
 Target Variable- median_house_value
-Features=
+Features=  Tot_Rooms, Latitude, and Longitude
+
+
+Model Selection
+We use xgb regressor
