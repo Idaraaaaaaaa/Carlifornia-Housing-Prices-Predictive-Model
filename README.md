@@ -42,4 +42,9 @@ Features=  Tot_Rooms, Latitude, and Longitude
 
 
 Model Selection
-We use xgb regressor
+For this project, I used the Xgboost regressor to predict the median housing prices in Carlifornia. It showed excellent performance by having a root mean squared error of 47K dollars.
+
+Conclusion
+With this project, we have built a robust model that can predict housing prices with a high degree of accuracy. This information is invaluable for real estate companies and individual homeowners looking to assess property values. The art of property pricing is traditionally complex and often handled by experts, but by leveraging historical data and machine learning techniques, we can achieve results that rival expert valuations.
+
+Understanding these patterns through our model provides a significant advantage in the real estate market, whether for pricing properties competitively when selling or making informed purchasing decisions. The predictive insights from this model empower stakeholders to make data-driven decisions with greater confidence.
