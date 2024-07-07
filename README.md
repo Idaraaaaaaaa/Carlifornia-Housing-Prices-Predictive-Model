@@ -8,4 +8,30 @@ Prepare Data
 Dataset description
 
 For this project we will be working with California Housing Prices Data (5 new features!) which contains the Median house prices for California districts derived from the 1990 census. The columns are as follows, their names are pretty self-explanatory:
+Median House Value: Median house value for households within a block (measured in US Dollars) [$]
 
+Median Income: Median income for households within a block of houses (measured in tens of thousands of US Dollars) [10k$]
+
+Median Age: Median age of a house within a block; a lower number is a newer building [years]
+
+Total Rooms: Total number of rooms within a block
+
+Total Bedrooms: Total number of bedrooms within a block
+
+Population: Total number of people residing within a block
+
+Households: Total number of households, a group of people residing within a home unit, for a block
+
+Latitude: A measure of how far north a house is; a higher value is farther north [°]
+
+Longitude: A measure of how far west a house is; a higher value is farther west [°]
+
+Distance to coast: Distance to the nearest coast point [m]
+
+Distance to Los Angeles: Distance to the centre of Los Angeles [m]
+
+Distance to San Diego: Distance to the centre of San Diego [m]
+
+Distance to San Jose: Distance to the centre of San Jose [m]
+
+Distance to San Francisco: Distance to the centre of San Francisco [m]
